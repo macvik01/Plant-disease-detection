@@ -1,6 +1,6 @@
 # Plant-disease-detection
 
-MUST!:Download and Use the image_for_testing_purpose folder to test the program  :
+MUST!:Download and Use the Dataset.rar and image_for_testing_purpose folder to test the program  :
 
 To get the output for__"Program without Splash screen.py"__one must have the following modules installed mainly :
 
@@ -43,7 +43,7 @@ os is standard module so no need to download it
 
 and other modules used inside the program under import statements.
 
-A)The Training is done using Google Collab and so we obtain model1.json and model1.h5 file.
+A)The Training is done using Google Collab and so we obtain model1.json and model1.h5 file, the images used to train can be obtained from dataset.rar also that folder contains some testing images feel free to check that out.
 
 B)The "Plant disease detection with splash screen.py" is the program that has a splash screen
 
